@@ -11,6 +11,7 @@ This is a simple Weather website that fetches and displays weather information f
 - [Example](#example)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+- [deployed link](#deployedlink)
 
 ## Features
 
@@ -53,3 +54,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather API.
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) font from Google Fonts.
+
+## deployedlink
+
+https://weather-website-yash.vercel.app/
